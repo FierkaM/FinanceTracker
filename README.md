@@ -39,13 +39,13 @@ Year: 2024
 ```
 ## Project Structure
 
-Main: The entry point of the application.
-UI: Handles all user interactions and input parsing (Scanner).
-Expense: The core engine managing the data structures and calculations.
-Purchase: A data model representing a single financial transaction.
-SimpleData: A custom implementation for date handling and validation.
+* Main: The entry point of the application.
+* UI: Handles all user interactions and input parsing (Scanner).
+* Expense: The core engine managing the data structures and calculations.
+* Purchase: A data model representing a single financial transaction.
+* SimpleData: A custom implementation for date handling and validation.
 
-🔧 How to Run
-1.Clone the repository: git clone https://github.com/YourUser/FinanceTracker.git
-2.Compile the .java files located in the src directory.
-3.Run the Main class.
+## How to Run
+* 1.Clone the repository: git clone https://github.com/YourUser/FinanceTracker.git
+* 2.Compile the .java files located in the src directory.
+* 3.Run the Main class.
